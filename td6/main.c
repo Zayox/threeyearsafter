@@ -133,7 +133,7 @@ int main() {
 }
  */
 
-/* ex10 manque assert
+
 int main() {
 
     int t[10] = {3, 12, -4, 6, 3, 8, -5, 10, 2};
@@ -149,6 +149,6 @@ int main() {
 
 }
 
- */
+
 
 // yo les jeunes
