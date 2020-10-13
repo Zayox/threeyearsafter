@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/amirmoumen/Downloads/td6/lib.c
+stdio.h
+-
+stdlib.h
+-
+lib.h
+/Users/amirmoumen/Downloads/td6/lib.h
+time.h
+/Users/amirmoumen/Downloads/td6/time.h
+
+/Users/amirmoumen/Downloads/td6/lib.h
+
